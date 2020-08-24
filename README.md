@@ -5,7 +5,7 @@
 
 ![](/github/github-explorer.png)
 
-<h2>Executando aplicação.</h2>
+<h2>Executando a aplicação.</h2>
 
 1 - Utilizar o comando yarn para instalar as dependências:
 <pre>yarn</pre>
