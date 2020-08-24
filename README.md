@@ -10,5 +10,5 @@
 1 - Utilizar o comando yarn para instalar as dependências:
 <pre>yarn</pre>
 
-2 - E iniciar o servidor:
+2 - Iniciar o servidor:
 <pre>yarn start</pre>
